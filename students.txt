@@ -1,0 +1,6 @@
+Arjun, 12345, Computer Science
+Ramesh Singh, 57799, Mathematics
+SmithSoye, 56889, English
+Sunita Doe, 12245,  Science
+Jenny Smith, 56749, Hindi
+Jane nitsa, 56769, Maths
